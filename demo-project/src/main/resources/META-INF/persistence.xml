@@ -3,8 +3,8 @@
 
     <persistence-unit name="jpabook">
 
-        <class>domain.Item</class>
-        <class>domain.Item</class>
+        <class>domain.item.Item</class>
+        <class>domain.item.Item</class>
         <class>domain.Member</class>
         <class>domain.Order</class>
         <class>domain.OrderItem</class>
